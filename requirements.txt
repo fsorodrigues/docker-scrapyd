@@ -11,5 +11,5 @@ scrapyd-client==1.2.3
 ipython==7.16.1
 jedi==0.17.2
 html2text==2020.1.16
-loguru==0.5.3
-logparser==0.8.2
+loguru==0.7.2
+logparser==1.0.3 
