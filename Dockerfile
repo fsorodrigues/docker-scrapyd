@@ -14,7 +14,6 @@ COPY ./requirements.txt /
 RUN pip install -r requirements.txt
 
 RUN mkdir /etc/scrapyd
-RUN mkdir -p /logs
 COPY scrapyd.conf /etc/scrapyd/
 COPY supervisord.conf /etc/
 
