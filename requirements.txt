@@ -13,3 +13,4 @@ jedi==0.17.2
 html2text==2020.1.16
 loguru==0.5.3
 logparser==0.8.2
+html-text==0.6.2
